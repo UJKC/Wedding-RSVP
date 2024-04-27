@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366050829439",
+    "firebase_url": "https://ujjufire-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ujjufire",
+    "storage_bucket": "ujjufire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366050829439:android:32323c48b9957b8abccb4a",
+        "android_client_info": {
+          "package_name": "com.example.wedding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366050829439-fif0kqcbo23es66liid07rdi3suk0o39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfg8ODQEktE7cpC4h6ytJiWno8_N8RhxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366050829439-fif0kqcbo23es66liid07rdi3suk0o39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
